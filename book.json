@@ -3,7 +3,7 @@
     "description": "A GitBook about learning GitBook",
     "extension": null,
     "generator": "site",
-    "isbn": null,
+    "isbn": "",
     "links": {
         "sharing": {
             "all": null,
@@ -34,7 +34,6 @@
     "plugins": [
         "disqus",
         "anchors",
-        "comscore",
         "multipart",
         "codeblock-filename"
     ],
